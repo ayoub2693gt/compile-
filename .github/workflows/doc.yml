@@ -1,0 +1,37 @@
+regedit
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.doc]
+@="Word.document.8"
+"Content Type"="application/msword"
+
+[HKEY_CLASSES_ROOT\.doc\OpenWithList]
+
+[HKEY_CLASSES_ROOT\.doc\OpenWithList\WordPad.exe]
+@=""
+
+[HKEY_CLASSES_ROOT\.doc\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+[HKEY_CLASSES_ROOT\.doc\ShellNew]
+
+[HKEY_CLASSES_ROOT\.doc\Word.document.6]
+
+[HKEY_CLASSES_ROOT\.doc\Word.document.6\ShellNew]
+"FileName"="winword.doc"
+
+[HKEY_CLASSES_ROOT\.doc\Word.document.8]
+
+[HKEY_CLASSES_ROOT\.doc\Word.document.8\ShellNew]
+"FileName"="winword8.doc"
+
+[HKEY_CLASSES_ROOT\.doc\WordDocument]
+
+[HKEY_CLASSES_ROOT\.doc\WordDocument\ShellNew]
+"FileName"="winword2.doc"
+
+[HKEY_CLASSES_ROOT\.doc\WordPad.document.1]
+
+[HKEY_CLASSES_ROOT\.doc\WordPad.document.1\ShellNew]
+"NullFile"=""
